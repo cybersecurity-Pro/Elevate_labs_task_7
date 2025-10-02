@@ -17,16 +17,19 @@ The purpose of this task was to review installed browser extensions, identify an
 I used my second Google account for this task since it had more than the default extension.  
 To access the extension manager in Chrome:  
 1. Click on the three-dot menu in the top right corner.
+
 **Screenshot:**
 
 ![5.1](./Screenshots/5.1.png)
 
 3. Navigate to **Extensions > Manage Extensions**.  
+
 **Screenshot:**
 
 ![5.2](./Screenshots/5.2.png)
 
 4. This opens the full list of installed extensions.  
+
 **Screenshot:**
 
 ![5.3](./Screenshots/5.3.png)
@@ -44,6 +47,7 @@ In my case, I checked all my Chrome accounts:
 After opening the extension manager, I reviewed all installed extensions. In this account, there were only two:
 
 1. **Adobe Acrobat: PDF edit, convert, sign tools**
+
 **Screenshot:**
 
 ![5.4](./Screenshots/5.4.png)
@@ -54,6 +58,7 @@ After opening the extension manager, I reviewed all installed extensions. In thi
    - Finding: This is an official Adobe extension, widely used and trusted. Although it requires broad permissions, it is considered safe as long as it comes from the official source.
 
 2. **Google Docs Offline**  
+
 **Screenshot:**
 
 ![5.5](./Screenshots/5.5.png)
