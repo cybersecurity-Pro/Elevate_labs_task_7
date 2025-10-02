@@ -53,7 +53,7 @@ After opening the extension manager, I reviewed all installed extensions. In thi
    - Publisher: Adobe Systems  
    - Finding: This is an official Adobe extension, widely used and trusted. Although it requires broad permissions, it is considered safe as long as it comes from the official source.
 
-3. **Google Docs Offline**  
+2. **Google Docs Offline**  
 **Screenshot:**
 
 ![5.5](./Screenshots/5.5.png)
@@ -66,7 +66,13 @@ After opening the extension manager, I reviewed all installed extensions. In thi
 **Results:**  
 - No suspicious or harmful extensions were found.  
 - Both installed extensions were from trusted publishers (Adobe & Google).  
-- No removal action was necessary.  
+- No removal action was necessary.
+
+**Screenshot:**
+
+![5.6](./Screenshots/5.6.png)
+
+**In case if you do end up finding a suspicious extension you can remove it by clicking on **Remove** from extensions menu and then restart the Chrome Browser** 
 
 
 ---
