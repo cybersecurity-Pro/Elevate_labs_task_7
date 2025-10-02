@@ -72,7 +72,7 @@ After opening the extension manager, I reviewed all installed extensions. In thi
 
 ![5.6](./Screenshots/5.6.png)
 
-In case if you do end up finding a suspicious extension you can remove it by clicking on **Remove** from extensions menu and then restart the Chrome Browser.
+If you find a suspicious extension, you can remove it by clicking **Remove** in the Extensions menu, and then restart the Chrome browser.
 
 
 ---
